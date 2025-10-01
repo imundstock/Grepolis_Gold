@@ -3,8 +3,17 @@
 // @namespace    grepolis-auto-colonize
 // @description  20s após abrir o jogo, recruta 1 Navio Colono se todos os requisitos forem satisfeitos.
 // @version      1.0.0
+// @match        https://*br139.grepolis.com/game/*
 // @match        https://*br140.grepolis.com/game/*
+// @match        https://*br141.grepolis.com/game/*
 // @match        https://*br142.grepolis.com/game/*
+// @match        https://*br143.grepolis.com/game/*
+// @match        https://*br144.grepolis.com/game/*
+// @match        https://*br145.grepolis.com/game/*
+// @match        https://*br146.grepolis.com/game/*
+// @match        https://*br147.grepolis.com/game/*
+// @match        https://*br148.grepolis.com/game/*
+// @match        https://*br149.grepolis.com/game/*
 // @grant        none
 // ==/UserScript==
 
